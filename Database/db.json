@@ -1,0 +1,139 @@
+{
+  "user": [
+    {
+      "name": "Tushar",
+      "email": "tkadam@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "name": "Anand",
+      "email": "akadam@gmail.com",
+      "password": "abc@123",
+      "id": "1"
+    },
+    {
+      "name": "Anand",
+      "email": "akadam@gmail.com",
+      "password": "abc@123",
+      "id": "9npl4li"
+    },
+    {
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "password": "raj@123",
+      "id": "hEJ57PK"
+    },
+    {
+      "name": "radadsd",
+      "email": "ddwew@wefsdfd",
+      "password": "Modern2020",
+      "id": "rVATww4"
+    },
+    {
+      "name": "adafaaad",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "xdRhH6C"
+    },
+    {
+      "name": "adafaaad",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "eQkUAct"
+    },
+    {
+      "name": "xcvxcvxvxc",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "iKBXJiY"
+    },
+    {
+      "name": "xcvxcvxvxc",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "Pdyofox"
+    },
+    {
+      "name": "xcvxcvxvxc",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "quNIPO_"
+    },
+    {
+      "name": "xcvxcvxvxc",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "dp0WHBZ"
+    },
+    {
+      "name": "Test",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "ojWv0Sg"
+    },
+    {
+      "name": "fsf",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "Hm8_4vV"
+    },
+    {
+      "name": "aadad",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "GQtC-u3"
+    },
+    {
+      "name": "Sam",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "KmvjkF2"
+    },
+    {
+      "name": "asdasd",
+      "email": "50",
+      "password": "Modern2020",
+      "id": "JF_P6rj"
+    }
+  ],
+  "restorant": [
+    {
+      "name": "Sai Krupa",
+      "address": "Bhandup",
+      "contact": "62424",
+      "id": "1"
+    },
+    {
+      "name": "Kings",
+      "address": "Bhandup",
+      "contact": "14324242",
+      "id": "2"
+    },
+    {
+      "id": "_STc_Oh"
+    },
+    {
+      "id": "lgm2O8w"
+    },
+    {
+      "name": "Resto Test",
+      "address": "Bhandup",
+      "contact": "33333",
+      "id": "WYLttvl"
+    },
+    {
+      "id": "JxtaldG"
+    },
+    {
+      "name": "Maaz",
+      "address": "Sonapur",
+      "contact": "13123",
+      "id": "qXBJ1JB"
+    }
+  ]
+}
